@@ -8,10 +8,16 @@ This may also, in the future, include a docs section on the scratch api, to give
 # Scratch api projects
 ###### These have to be added here because it is not possible to pin repositories that you have not contributed to
 
-- # [ScratchAttach](https://github.com/timMcCool/scratchattach/)
+- # [ScratchAttach](https://github.com/TimMcCool/scratchattach)
   A sync (developing async) python library for the scratch API and other site features.
 - # [Scapi](https://github.com/kakeruzoku/scapi)
   An async python library for the scratch web API, using aiohttp. Docs in Japanese.
 
 # Other Scratch tools
 - There are a lot of these
+
+# Inactive projects (old)
+- [scratchcloud](https://github.com/yuwex/scratchcloud)
+- [scratchclient](https://github.com/CubeyTheCube/scratchclient)
+- [node-scratch-client](https://www.npmjs.com/package/node-scratch-client)
+- [scratch-api (js)](https://github.com/trumank/scratch-api)
