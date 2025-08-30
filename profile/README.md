@@ -21,3 +21,5 @@ This may also, in the future, include a docs section on the scratch api, to give
 - [scratchclient](https://github.com/CubeyTheCube/scratchclient)
 - [node-scratch-client](https://www.npmjs.com/package/node-scratch-client)
 - [scratch-api (js)](https://github.com/trumank/scratch-api)
+
+If you want to add more to this list, just open a pull request [on the repository](https://github.com/scratch-api/.github) that hosts [this file](https://github.com/scratch-api/.github/blob/main/profile/README.md).
